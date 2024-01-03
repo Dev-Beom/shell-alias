@@ -6,6 +6,9 @@ aliases=(
   "zshrcs='source ~/.zshrc'"
   "ws='cd /Users/user/Documents/workspaces && pwd'"
   "fm='./gradlew clean ktlintFormat'"
+  "gwt='./gradlew test'"
+  "gwut'./gradlew unitTest'"
+  "gwit'./gradlew integrationTest'"
   "clr='clear'"
   "ij='idea .'"
 )
